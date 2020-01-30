@@ -1,0 +1,88 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Leonardo Vicente",
+            "prova1": 6.3,
+            "prova2": 7,
+            "prova3": 4.5,
+            "status": "",
+            "nota_necessaria": false,
+            "media": false,
+            "mensagem": "",
+            "foto_perfil": "https://uploads0.wikiart.org/images/leonardo-da-vinci.jpg!Portrait.jpg"
+        },
+        {
+            "id": 2,
+            "nome": "Rembrando",
+            "prova1": 9.3,
+            "prova2": 0,
+            "prova3": 6.81,
+            "status": "",
+            "nota_necessaria": false,
+            "media": false,
+            "mensagem": "",
+            "foto_perfil": "https://uploads1.wikiart.org/images/rembrandt.jpg!Portrait.jpg"
+        },
+        {
+            "id": 3,
+            "nome": "Paula Monteiro",
+            "prova1": 6.3,
+            "prova2": 7,
+            "prova3": 4.5,
+            "status": "",
+            "nota_necessaria": false,
+            "media": false,
+            "mensagem": "",
+            "foto_perfil": "https://uploads5.wikiart.org/images/paula-modersohn-becker.jpg!Portrait.jpg"
+        },
+        {
+            "id": 4,
+            "nome": "Claudio Manuel",
+            "prova1": 9.3,
+            "prova2": 7,
+            "prova3": false,
+            "status": "",
+            "nota_necessaria": false,
+            "media": false,
+            "mensagem": "",
+            "foto_perfil": "https://uploads0.wikiart.org/00115/images/claude-monet/440px-claude-monet-1899-nadar-crop.jpg!Portrait.jpg"
+        },
+        {
+            "id": 5,
+            "nome": "Clara Rita",
+            "prova1": 8.7,
+            "prova2": 7.65,
+            "prova3": 10,
+            "status": "",
+            "nota_necessaria": false,
+            "media": false,
+            "mensagem": "",
+            "foto_perfil": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Clara_Rilke-Westhoff.jpg"
+        },
+        {
+            "id": 6,
+            "nome": "Paulo Galo",
+            "prova1": 10,
+            "prova2": 7.5,
+            "prova3": 6.5,
+            "status": "",
+            "nota_necessaria": false,
+            "media": false,
+            "mensagem": "",
+            "foto_perfil": "https://uploads4.wikiart.org/images/paul-gauguin.jpg!Portrait.jpg"
+        },
+        {
+            "id": 7,
+            "nome": "Vicente Vanio Gomes",
+            "prova1": 5.3,
+            "prova2": 9,
+            "prova3": false,
+            "status": "",
+            "nota_necessaria": false,
+            "media": false,
+            "mensagem": "",
+            "foto_perfil": "https://uploads8.wikiart.org/images/vincent-van-gogh.jpg!Portrait.jpg"
+        }
+    ]
+}
